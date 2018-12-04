@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora de préstamos</string>
+    <string name="titulo_formulario">Llena los campos para el préstamo</string>
+    <string name="nombre_app">CalcuApp</string>
+    <string name="hintNombre">Nombre: Veneury</string>
+    <string name="hintMonto">Monto: 30000</string>
+    <string name="hinyCuota">Cuotas: 12</string>
+    <string name="hintTasa">Tasa: 5</string>
+    <string name="hintFecha">Fecha: 04/12/2018</string>
+    <string name="bSalir">Salir</string>
+    <string name="bAcerca">Acerca de...</string>
+    <string name="bCaluclar">Calcular Préstamo</string>
+</resources>
